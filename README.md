@@ -21,7 +21,3 @@ npm start      # Production mode
 - `GET /api/items/:id` - Get single item by ID
 - `POST /api/items` - Create new item
 - `GET /api/health` - Health check
-
-## Data
-
-Products are stored in `data.json` file for simplicity.
