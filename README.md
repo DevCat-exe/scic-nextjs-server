@@ -1,5 +1,5 @@
 # SCIC Store - Express API Server
-
+## SORRY I COPIED THE WRONG LINK THE MAIN REPO IS IN https://github.com/DevCat-exe/scic-nextjs
 Simple Express.js API server for managing product data.
 
 ## Setup
