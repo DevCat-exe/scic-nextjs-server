@@ -1,0 +1,17 @@
+{
+  "name": "scic-express-api",
+  "version": "1.0.0",
+  "description": "Express API server for SCIC Store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "description": "High-performance laptop with 16GB RAM and 512GB SSD. Perfect for professionals and creators.",
+    "price": 1299.99,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+    "category": "Electronics",
+    "inStock": true,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with long battery life and precision tracking.",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91c51c87b?w=400",
+    "category": "Accessories",
+    "inStock": true,
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with blue switches and customizable lighting effects.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1598916104492-b8c5b6d9c5c2?w=400",
+    "category": "Accessories",
+    "inStock": true,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub",
+    "description": "7-in-1 USB-C hub with HDMI and SD card reader. Expand your connectivity.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400",
+    "category": "Accessories",
+    "inStock": true,
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "Monitor Stand",
+    "description": "Adjustable monitor stand with storage drawer. Improve your ergonomics.",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400",
+    "category": "Accessories",
+    "inStock": true,
+    "rating": 4.1
+  }
+]
